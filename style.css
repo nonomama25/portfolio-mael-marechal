@@ -1,0 +1,31 @@
+.Bouton {
+    background: linear-gradient(135deg, rgb(0, 0, 0), rgb(94, 0, 0), rgb(126, 0, 0));
+    color: white;
+    transition: background 0.3s;
+
+    
+}
+.Bouton:hover{ 
+    background: linear-gradient(135deg, rgb(126, 0, 0), rgb(94, 0, 0), rgb(0, 0, 0));
+    color:white
+}
+
+
+.h1-container {
+    background-color: #f8f9fa;
+    border: 2px solid rgb(126, 32, 32);
+   
+    
+    
+}  
+
+aside {
+    background: linear-gradient(135deg, red, black);}
+
+
+body {
+    background-image: url('image/image arrière plan.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
